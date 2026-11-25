@@ -6,7 +6,7 @@
 
 <hr/>
 
-<h2>🙋‍♂️ About Me</h2>
+<h2>About Me</h2>
 
 <ul>
   <li>🚀 Junior Developer focused on backend systems</li>
